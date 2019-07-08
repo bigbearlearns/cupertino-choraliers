@@ -1,0 +1,60 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Cupertino Choraliers"
+theme = "gohugo-theme-ananke"
+
+
+[menu]
+
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 10
+
+  [[menu.main]]
+    identifier = "members"
+    name = "Members"
+    url = "/members/"
+    weight = 20
+
+  [[menu.main]]
+    name = "Regular Repertoire"
+    url = "/repertoire_1/"
+    weight = 30
+
+  [[menu.main]]
+    name = "Holiday Repertoire"
+    url = "/repertoire_2/"
+    weight = 40
+
+  [[menu.main]]
+    name = "Meetings"
+    url = "/meetings/"
+    weight = 50
+
+  [[menu.main]]
+    name = "Shows & Performances"
+    url = "/shows/"
+    weight = 60
+
+  [[menu.main]]
+    name = "Director Bio"
+    url = "/director/"
+    weight = 70
+
+  [[menu.main]]
+    name = "Chorus & Group Photos"
+    url = "/quartets/"
+    weight = 80
+
+  [[menu.main]]
+    name = "Web Links"
+    url = "/links/"
+    weight = 90
+
+  [[menu.main]]
+    name = "Contacts"
+    url = "/contacts/"
+    weight = 100
+
