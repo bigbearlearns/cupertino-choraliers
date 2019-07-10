@@ -23,11 +23,11 @@ Spring April to June, Fee $35.00 plus Music.
 
 Summer July to September, Fee $20.00 no new Music.
 
-Fall October to December, Fee $40.00 plus Music.
+Fall October to December, Fee TBA plus Music.
 
-All prices are subject to changes.
+All fees are subject to changes.
 
-During the Fall Quarter we perform Christmas Music.
+During the Fall Quarter we perform Holiday Music.
 
 During the Summer Quarter we perform at Nursing & Retirement Homes and do very little rehearsing.
 

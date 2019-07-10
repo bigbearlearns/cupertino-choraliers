@@ -9,4 +9,4 @@ The Choraliers started in 1978 as a choral class as part of the “Older Adult S
 
 
 
-In the Choraliers, Laura continues to instruct and inspire approximately 40 seniors as they sing at retirement homes and care facilities throughout the year.  Laura skillfully directs and accompanies the group and continues to improve our musical skills. We are all richly rewarded by the response of the residents of the facilities where we sing.
+In the Choraliers, Laura continues to instruct and inspire approximately 30 seniors as they sing at retirement homes and care facilities throughout the year.  Laura skillfully directs and accompanies the group and continues to improve our musical skills. We are all richly rewarded by the response of the residents of the facilities where we sing.

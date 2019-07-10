@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "http://cupertino-choraliers.org/"
 languageCode = "en-us"
 title = "Cupertino Choraliers"
 theme = "gohugo-theme-ananke"

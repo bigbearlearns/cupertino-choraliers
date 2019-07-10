@@ -2,29 +2,34 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Cupertino Choraliers</title>
-    <link>http://example.org/posts/</link>
+    <link>http://cupertino-choraliers.org/posts/</link>
     <description>Recent content in Posts on Cupertino Choraliers</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 26 Jun 2019 15:30:13 -0700</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jul 2019 15:30:13 -0700</lastBuildDate>
     
-	<atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://cupertino-choraliers.org/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Summer News</title>
-      <link>http://example.org/posts/summer-news/</link>
-      <pubDate>Wed, 26 Jun 2019 15:30:13 -0700</pubDate>
+      <title>Summer Schedule</title>
+      <link>http://cupertino-choraliers.org/posts/summer-schedule/</link>
+      <pubDate>Sat, 06 Jul 2019 15:30:13 -0700</pubDate>
       
-      <guid>http://example.org/posts/summer-news/</guid>
-      <description>This where periodic news updates can go.
-Technical stuff below.
-Below are some examples of Markdown to see how it is rendered in the browser.
-http://example.org/posts/ H1 H2 H3 H4 H5 H6 Alternatively, for H1 and H2, an underline-ish style:
-Alt-H1 Alt-H2 Emphasis, aka italics, with asterisks or underscores.
-Strong emphasis, aka bold, with asterisks or underscores.
-Combined emphasis with asterisks and underscores.
-Strikethrough uses two tildes. Scratch this.</description>
+      <guid>http://cupertino-choraliers.org/posts/summer-schedule/</guid>
+      <description>Hi Choraliers,
+Below are the venues and times of our performances. The time given is performance time so plan to arrive the usual 15 minutes or more ahead of time:
+ July 8 at 10:30
+Cedar Crest Nursing and Rehabilitation
+197 E Fremont Ave
+Sunnyvale, CA 94087
+Map
+ July 15 at 10:00
+Grace Adult Day Health Care
+3010 Olcott St
+Santa Clara, CA 95054
+Map
+ July 22 at 10:30</description>
     </item>
     
   </channel>

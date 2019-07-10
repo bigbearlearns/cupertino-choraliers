@@ -20,5 +20,5 @@ Laura directed the Fun Times Singers from 2002 to 2008.
 
 
 
-Now Laura directs the Choraliers, a group of Seniors (40 people) who provide sing-a-longs for retirement facilities and rest homes.
+Now Laura directs and accompanies the Choraliers, a group of Seniors (30 people) who provide choral music for retirement facilities and rest homes.
 

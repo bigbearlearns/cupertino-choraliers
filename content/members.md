@@ -28,4 +28,4 @@ Gerry Hanson, John Heather, David Norlander, Ben Roisen, Frank Yap
 If you know someone in the list above and are free on a Monday
 morning, why don't you join us and join in the fun.
 
-Check the events page first to find out where we are meeting and make sure that we are not out performing.
+Check the [Shows & Performances](/shows) page first to find out where we are meeting and make sure that we are not out performing.
